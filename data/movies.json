@@ -1,0 +1,132 @@
+{
+    "popular-movies": [
+            {
+                "id": 1,
+                "title": "Shoushimin-series",
+                "description": "Jougorou Kobato has a habit of inserting himself into other people's problems. After realizing his detective skills are neither wanted nor appreciated, he makes an agreement with his shy friend Yuki Osanai to become ordinary together. Now entering high school, they aim to be perceived as regular people, yet Kobato cannot help but fall back into his deductive ways when faced with everyday mysteries.",
+                "image_url": "./assets/shoushimin-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 2,
+                "title": "Neon Genesis : Evangelion",
+                "description": "Phim trầm cảm thấy bà",
+                "image_url": "./assets/evan-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 3,
+                "title": "Dragon Ball Z",
+                "description": "Đếch phải Dragon Ball : Super",
+                "image_url": "./assets/dragonball-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 4,
+                "title": "Attack On Titan : The Final Season",
+                "description": "Kể vể anh thanh niên eren và mấy con ng khổ lồng không mặt độ chạy long nhong ngoài đường",
+                "image_url": "./assets/aot-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 5,
+                "title": "Dragon Ball : Super",
+                "description": "Combat ok phết mà cốt truyện cx ok hay nốt, nhưng vẫn chê vì thích Dragon Ball Z hơn",
+                "image_url": "./assets/dragonballsuper-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 6,
+                "title": "Sousou no Frieren",
+                "description": "Peak vcl",
+                "image_url": "./assets/frieren-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 7,
+                "title": "Kaguya-sama: Love is War -Ultra Romantic-",
+                "description": "Romcom mà peak vcl",
+                "image_url": "./assets/loveiswar-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 8,
+                "title": "Monster",
+                "description": "Quả phản diện peak vcl,đọc vài lần r ms hết sợ",
+                "image_url": "./assets/monster-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 9,
+                "title": "Your Name",
+                "description": "Absolute cinema",
+                "image_url": "./assets/yn-poster.jpg",
+                "category": "popular-movies"
+            }
+    ], 
+    "trending-movies": [
+            {
+                "id": 1,
+                "title": "KonoSuba: God's Blessing on This Wonderful World!",
+                "description": "Kazuma và mấy con báo!",
+                "image_url": "./assets/konosuba-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 2,
+                "title": "No Game No Life",
+                "description": "Hành trình của 2 tên neet=))!",
+                "image_url": "./assets/ngnl-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 3,
+                "title": "Another",
+                "description": "Cốt truyện ok, mà có mấy cái chết xàm vk!",
+                "image_url": "./assets/another-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 4,
+                "title": "The Disastrous Life of Saiki K.",
+                "description": "Cuột sống thường ngày của thánh hề Saiki K.",
+                "image_url": "./assets/saiki-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 5,
+                "title": "That Time I Got Reincarnated as a Slime",
+                "description": "Mì ăn liên (B+)",
+                "image_url": "./assets/tensura-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 6,
+                "title": "Gintama",
+                "description": "Hài vl",
+                "image_url": "./assets/gintama-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 7,
+                "title": "Re:zero",
+                "description": "Nếu bạn là 1 thg máu M thì khuyến khích coi",
+                "image_url": "./assets/rezero-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 8,
+                "title": "Jujutsu Kaisen( thầy cúng báo đời)",
+                "description": "Nơi thầy cúng choảng nhau",
+                "image_url": "./assets/jjk-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 9,
+                "title": "Movie of century(Bom tấn thế kỷ 21)",
+                "description": "Hitler và những người bạn",
+                "image_url": "./assets/gersp-poster.jpg",
+                "category": "popular-movies"
+            }
+        ]
+}
